@@ -1,10 +1,5 @@
-# Indian Sign Detector
+# sign-language-detector-python
 
-This is a python project capable of recognizing and converting Indian Sign Language into words in real-time. 
+Sign language detector with Python, OpenCV and Mediapipe !
 
-The project uses a model that has been trained on a dataset of sign language gestures to recognize and interpret the gestures made by the user. It is important to have a way to communicate with people who are deaf or hard of hearing, without the need for an interpreter.
-
-## Models used
-OpenCV &
-Tensorflow
-
+[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
